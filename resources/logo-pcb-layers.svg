@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="6.0mm"
+   height="6.0mm"
+   viewBox="0 0 6.0 6.0"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="logo-pcb-layers.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="36.861176"
+     inkscape:cx="15.651251"
+     inkscape:cy="13.392857"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g19"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="3440"
+     inkscape:window-height="1361"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="2.156974,1.0762696"
+       orientation="0,-1"
+       id="guide61" />
+    <sodipodi:guide
+       position="5.3970862,3.3562336"
+       orientation="1,0"
+       id="guide63" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="[fixed] BG"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true"
+     id="g15"
+     style="display:none">
+    <rect
+       x="0"
+       y="0"
+       width="6"
+       height="6"
+       style="display:none;fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect13" />
+  </g>
+  <g
+     inkscape:label="B.Cu"
+     inkscape:groupmode="layer"
+     id="g17">
+    <path
+       id="cir"
+       d="M 3.0003334,0 A 3,3 0 0 1 6.0001504,2.999817 3,3 0 0 1 3.0003334,6.0001504 3,3 0 0 1 0,2.999817 3,3 0 0 1 3.0003334,0 Z M 4.7971231,1.0836548 H 3.836975 L 3.5971963,1.3234334 3.836975,1.5637288 H 4.7971231 L 5.0369017,1.3234334 Z m -2.640149,0 H 1.196826 L 0.9570474,1.3234334 1.196826,1.5637288 H 2.1569741 L 2.3967527,1.3234334 Z M 5.156791,1.4438395 4.9170124,1.6836182 V 2.6437663 L 5.156791,2.883545 5.3970864,2.6437663 V 1.6836182 Z m -2.639632,0 -0.2402956,0.2397787 V 2.6437663 L 2.517159,2.883545 2.7569377,2.6437663 V 1.6836182 Z m -1.6800009,0 -0.2402954,0.2397787 V 2.6437663 L 0.8371581,2.883545 1.0769367,2.6437663 V 1.6836182 Z m 0,1.6800009 -0.2402954,0.2397787 v 0.960148 L 0.8371581,4.5635457 1.0769367,4.3237671 v -0.960148 z m 1.319816,1.319816 H 1.196826 L 0.9570474,4.6834351 1.196826,4.9237304 H 2.1569741 L 2.3967527,4.6834351 Z"
+       style="display:inline;opacity:1;fill:#999999;fill-opacity:1;stroke:none;stroke-width:1;paint-order:normal;shape-rendering:crispEdges"
+       inkscape:label="bg" />
+  </g>
+  <g
+     inkscape:label="B.Mask"
+     inkscape:groupmode="layer"
+     id="g19">
+    <path
+       d="M 2.1570865,2.7637304 H 1.1970866 l -0.24000008,0.24 0.24000008,0.24 h 0.9599999 l 0.24,-0.24 z m 0.1199999,0.5999998 v 0.96 l 0.24,0.24 0.24,-0.24 v -0.96 l -0.24,-0.24 z m 2.52,-0.5999998 h -0.96 l -0.24,0.24 0.24,0.24 h 0.96 l 0.2399999,-0.24 z m 0.12,0.5999998 v 0.96 l 0.24,0.24 0.24,-0.24 v -0.96 l -0.24,-0.2399999 z m -0.12,1.0800002 h -0.96 l -0.24,0.24 0.24,0.24 h 0.96 l 0.2399999,-0.24 z m -1.56,-1.0800002 v 0.96 l 0.24,0.24 0.24,-0.24 v -0.96 l -0.24,-0.2399999 z m 0,-1.6799998 v 0.96 l 0.24,0.24 0.24,-0.24 v -0.96 l -0.24,-0.24 z"
+       style="display:inline;fill:#ff0000;stroke:none;stroke-width:1;shape-rendering:crispEdges"
+       id="2g"
+       inkscape:label="segments" />
+  </g>
+  <g
+     inkscape:label="B.SilkS"
+     inkscape:groupmode="layer"
+     id="g21" />
+</svg>

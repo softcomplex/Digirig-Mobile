@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name footprints)(type KiCad)(uri ${KIPRJMOD}/footprints.pretty)(options "")(descr ""))
+  (lib (name Garadget-2.6)(type KiCad)(uri C:/Users/denis/Dropbox/Projects/garadget/electric-kicad/Garadget-2.6.pretty)(options "")(descr ""))
+)
