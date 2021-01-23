@@ -686,7 +686,7 @@ Wire Wire Line
 Wire Wire Line
 	8500 4750 8150 4750
 Wire Wire Line
-	6950 5550 4900 5550
+	6950 5550 5650 5550
 Wire Wire Line
 	4900 1950 4900 5550
 Wire Wire Line
@@ -1348,4 +1348,31 @@ $EndComp
 Wire Wire Line
 	750  2050 850  2050
 Connection ~ 850  2050
+$Comp
+L Device:R_US R13
+U 1 1 600C299D
+P 5650 5800
+F 0 "R13" H 5718 5846 50  0000 L CNN
+F 1 "15K" H 5718 5755 50  0000 L CNN
+F 2 "Resistor_SMD:R_0402_1005Metric" V 5690 5790 50  0001 C CNN
+F 3 "~" H 5650 5800 50  0001 C CNN
+	1    5650 5800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 600C4313
+P 5650 5950
+F 0 "#PWR?" H 5650 5700 50  0001 C CNN
+F 1 "GND" H 5655 5777 50  0000 C CNN
+F 2 "" H 5650 5950 50  0001 C CNN
+F 3 "" H 5650 5950 50  0001 C CNN
+	1    5650 5950
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5650 5650 5650 5550
+Connection ~ 5650 5550
+Wire Wire Line
+	5650 5550 4900 5550
 $EndSCHEMATC

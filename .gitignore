@@ -1,0 +1,6 @@
+electric/datasheets/*
+*.old
+*.bak
+*-bak
+*.bck
+*-cache.*
