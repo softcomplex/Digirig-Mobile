@@ -1,4 +1,0 @@
-(sym_lib_table
-  (lib (name components)(type Legacy)(uri ${KIPRJMOD}/components.lib)(options "")(descr ""))
-  (lib (name ch34x)(type Legacy)(uri C:/Users/denis/Downloads/ch34x.lib)(options "")(descr "")(disabled))
-)
