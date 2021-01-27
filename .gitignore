@@ -1,6 +1,9 @@
 electric/datasheets/*
+electric/gerbers/*
 *.old
 *.bak
 *-bak
 *.bck
 *-cache.*
+*-cache
+
