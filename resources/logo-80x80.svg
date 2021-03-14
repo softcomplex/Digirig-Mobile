@@ -6,39 +6,12 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    shape-rendering="crispEdges"
    id="svg8"
    version="1.1"
-   viewBox="0 0 500 500.00002"
-   height="500"
-   width="500"
-   sodipodi:docname="logo-plain.svg"
-   inkscape:export-filename="C:\Users\denis\Dropbox\Projects\digirig.net\resources\logo-square.png"
-   inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="2697"
-     inkscape:window-height="1351"
-     id="namedview31"
-     showgrid="false"
-     inkscape:zoom="2.238"
-     inkscape:cx="220.06256"
-     inkscape:cy="196.3807"
-     inkscape:window-x="224"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg8" />
+   viewBox="0 0 80 80.000003"
+   height="80"
+   width="80">
   <style
      id="style836">
 .off {
@@ -65,36 +38,21 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <rect
-     style="opacity:1;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
-     id="rect33"
-     width="496"
-     height="496"
-     x="2"
-     y="2"
-     inkscape:label="rect" />
   <circle
-     cy="250"
-     cx="250"
+     cy="40"
+     cx="40"
      id="cir"
-     style="display:none;opacity:1;fill:#999999;fill-opacity:1;stroke:none;paint-order:normal"
-     r="250" />
-  <g
-     inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="originals"
-     style="display:none">
-    <path
-       style="display:inline;opacity:1;stroke:none"
-       id="sg"
-       d="m 100,90 h 80 l 20,20 -20,20 H 100 L 80,110 Z" />
-  </g>
+     style="opacity:1;fill:#999999;fill-opacity:1;stroke:none;stroke-width:1;paint-order:normal"
+     r="40" />
   <g
      style="display:inline"
-     id="layer1"
-     inkscape:label="segments">
+     id="layer1">
+    <path
+       style="display:inline;stroke:none;stroke-width:1"
+       id="sg"
+       d="m 16,14.4 h 12.8 l 3.2,3.2 -3.2,3.2 H 16 l -3.2,-3.2 z" />
     <use
-       style="display:inline;opacity:1;fill:#808080"
+       style="display:inline;opacity:1;fill:#808080;stroke-width:6.25"
        class="off"
        height="100%"
        width="100%"
@@ -103,9 +61,9 @@
        y="0"
        x="0" />
     <use
-       style="display:inline;fill:#ff0000"
+       style="display:inline;fill:#ff0000;stroke-width:6.25"
        class="on"
-       transform="rotate(90,140,180)"
+       transform="rotate(90,22.4,28.8)"
        height="100%"
        width="100%"
        id="1b"
@@ -113,9 +71,9 @@
        y="0"
        x="0" />
     <use
-       style="display:inline;fill:#ff0000"
+       style="display:inline;fill:#ff0000;stroke-width:6.25"
        class="on"
-       transform="rotate(90,70,250)"
+       transform="rotate(90,11.2,40)"
        height="100%"
        width="100%"
        id="1c"
@@ -123,9 +81,9 @@
        y="0"
        x="0" />
     <use
-       style="display:inline;fill:#ff0000"
+       style="display:inline;fill:#ff0000;stroke-width:6.25"
        class="on"
-       transform="translate(0,280)"
+       transform="translate(0,44.8)"
        height="100%"
        width="100%"
        id="1d"
@@ -133,9 +91,9 @@
        y="0"
        x="0" />
     <use
-       style="display:inline;fill:#ff0000"
+       style="display:inline;fill:#ff0000;stroke-width:6.25"
        class="on"
-       transform="rotate(90,0,180)"
+       transform="rotate(90,0,28.8)"
        height="100%"
        width="100%"
        id="1e"
@@ -143,9 +101,9 @@
        y="0"
        x="0" />
     <use
-       style="display:inline;fill:#808080"
+       style="display:inline;fill:#808080;stroke-width:6.25"
        class="off"
-       transform="rotate(90,70,110)"
+       transform="rotate(90,11.2,17.6)"
        height="100%"
        width="100%"
        id="1f"
@@ -153,9 +111,9 @@
        y="0"
        x="0" />
     <use
-       style="display:inline;fill:#ff0000"
+       style="display:inline;fill:#ff0000;stroke-width:6.25"
        class="on"
-       transform="translate(0,140)"
+       transform="translate(0,22.4)"
        height="100%"
        width="100%"
        id="1g"
@@ -163,9 +121,9 @@
        y="0"
        x="0" />
     <use
-       style="display:inline;fill:#808080"
+       style="display:inline;fill:#808080;stroke-width:6.25"
        class="off"
-       transform="translate(220)"
+       transform="translate(35.2)"
        height="100%"
        width="100%"
        id="2a"
@@ -173,9 +131,9 @@
        y="0"
        x="0" />
     <use
-       style="display:inline;fill:#808080"
+       style="display:inline;fill:#808080;stroke-width:6.25"
        class="off"
-       transform="rotate(90,250,290)"
+       transform="rotate(90,40,46.4)"
        height="100%"
        width="100%"
        id="2b"
@@ -183,9 +141,9 @@
        y="0"
        x="0" />
     <use
-       style="display:inline;fill:#808080"
+       style="display:inline;fill:#808080;stroke-width:6.25"
        class="off"
-       transform="rotate(90,180,360)"
+       transform="rotate(90,28.8,57.6)"
        height="100%"
        width="100%"
        id="2c"
@@ -193,9 +151,9 @@
        y="0"
        x="0" />
     <use
-       style="display:inline;fill:#808080"
+       style="display:inline;fill:#808080;stroke-width:6.25"
        class="off"
-       transform="translate(220,280)"
+       transform="translate(35.2,44.8)"
        height="100%"
        width="100%"
        id="2d"
@@ -203,9 +161,9 @@
        y="0"
        x="0" />
     <use
-       style="display:inline;fill:#ff0000"
+       style="display:inline;fill:#ff0000;stroke-width:6.25"
        class="on"
-       transform="rotate(90,110,290)"
+       transform="rotate(90,17.6,46.4)"
        height="100%"
        width="100%"
        id="2e"
@@ -213,9 +171,9 @@
        y="0"
        x="0" />
     <use
-       style="display:inline;fill:#808080"
+       style="display:inline;fill:#808080;stroke-width:6.25"
        class="off"
-       transform="rotate(90,180,220)"
+       transform="rotate(90,28.8,35.2)"
        height="100%"
        width="100%"
        id="2f"
@@ -223,9 +181,9 @@
        y="0"
        x="0" />
     <use
-       style="display:inline;fill:#ff0000"
+       style="display:inline;fill:#ff0000;stroke-width:6.25"
        class="on"
-       transform="translate(220,140)"
+       transform="translate(35.2,22.4)"
        height="100%"
        width="100%"
        id="2g"

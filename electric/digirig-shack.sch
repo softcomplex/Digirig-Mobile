@@ -1888,4 +1888,92 @@ Text Label 4850 1300 0    50   ~ 0
 SND_DM
 Text Label 4850 1400 0    50   ~ 0
 SND_DP
+$Comp
+L Mechanical:MountingHole_Pad H1
+U 1 1 6017CD19
+P 1500 6500
+F 0 "H1" H 1600 6549 50  0000 L CNN
+F 1 "M3" H 1600 6458 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_Pad_Via" H 1500 6500 50  0001 C CNN
+F 3 "~" H 1500 6500 50  0001 C CNN
+	1    1500 6500
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR054
+U 1 1 6017E5B4
+P 1500 6600
+F 0 "#PWR054" H 1500 6350 50  0001 C CNN
+F 1 "GND" H 1505 6427 50  0000 C CNN
+F 2 "" H 1500 6600 50  0001 C CNN
+F 3 "" H 1500 6600 50  0001 C CNN
+	1    1500 6600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole_Pad H2
+U 1 1 6018D2E2
+P 1800 6500
+F 0 "H2" H 1900 6549 50  0000 L CNN
+F 1 "M3" H 1900 6458 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_Pad_Via" H 1800 6500 50  0001 C CNN
+F 3 "~" H 1800 6500 50  0001 C CNN
+	1    1800 6500
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR055
+U 1 1 6018D4E4
+P 1800 6600
+F 0 "#PWR055" H 1800 6350 50  0001 C CNN
+F 1 "GND" H 1805 6427 50  0000 C CNN
+F 2 "" H 1800 6600 50  0001 C CNN
+F 3 "" H 1800 6600 50  0001 C CNN
+	1    1800 6600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole_Pad H3
+U 1 1 6019CC55
+P 2100 6500
+F 0 "H3" H 2200 6549 50  0000 L CNN
+F 1 "M3" H 2200 6458 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_Pad_Via" H 2100 6500 50  0001 C CNN
+F 3 "~" H 2100 6500 50  0001 C CNN
+	1    2100 6500
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR056
+U 1 1 6019CE71
+P 2100 6600
+F 0 "#PWR056" H 2100 6350 50  0001 C CNN
+F 1 "GND" H 2105 6427 50  0000 C CNN
+F 2 "" H 2100 6600 50  0001 C CNN
+F 3 "" H 2100 6600 50  0001 C CNN
+	1    2100 6600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole_Pad H4
+U 1 1 601ABF2E
+P 2400 6500
+F 0 "H4" H 2500 6549 50  0000 L CNN
+F 1 "M3" H 2500 6458 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_Pad_Via" H 2400 6500 50  0001 C CNN
+F 3 "~" H 2400 6500 50  0001 C CNN
+	1    2400 6500
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR057
+U 1 1 601AC164
+P 2400 6600
+F 0 "#PWR057" H 2400 6350 50  0001 C CNN
+F 1 "GND" H 2405 6427 50  0000 C CNN
+F 2 "" H 2400 6600 50  0001 C CNN
+F 3 "" H 2400 6600 50  0001 C CNN
+	1    2400 6600
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
