@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP ESDU5V0H4
+D Uni-direction ESD Protection Array
+K ESD clamp
+F https://datasheet.lcsc.com/szlcsc/1810241514_Changjiang-Electronics-Tech-CJ-ESDU5V0H4_C84837.pdf
+$ENDCMP
+#
 $CMP TUSB2046
 D 4-Port Hub for the Universal Serial Bus
 K USB Hub Port
