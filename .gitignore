@@ -1,5 +1,6 @@
 electric/datasheets/*
 electric/gerbers/*
+local/*
 *.old
 *.bak
 *-bak
