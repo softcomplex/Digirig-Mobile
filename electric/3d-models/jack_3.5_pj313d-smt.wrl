@@ -4,13 +4,13 @@ DEF cube11_sep17 Transform {
   children [
     Shape {
       appearance Appearance {
-        material DEF gold Material {
-          diffuseColor 1.0 1.0 0.0
-          emissiveColor 1.0 1.0 0.0
-          specularColor 1.0 1.0 0.0
-          ambientIntensity 0.6666666666666666
+        material DEF silver Material {
+          diffuseColor 0.4 0.4 0.4
+          emissiveColor 0.4 0.4 0.4
+          specularColor 0.4 0.4 0.4
+          ambientIntensity 0.66
           transparency 0.0
-          shininess 0.5
+          shininess 0.8
         }
       }
       geometry IndexedFaceSet {
