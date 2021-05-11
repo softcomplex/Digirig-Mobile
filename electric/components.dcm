@@ -1,29 +1,5 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP ADUM3160
-D Full/Low Speed, iCoupler USB Digital Isolator, 2.5kV protection
-K usb isolation
-F https://www.analog.com/media/en/technical-documentation/data-sheets/ADuM3160.pdf
-$ENDCMP
-#
-$CMP ADUM4160
-D Full/Low Speed, iCoupler USB Digital Isolator, 5kV protection, SOIC-16
-K usb isolation
-F https://www.analog.com/media/en/technical-documentation/data-sheets/ADuM4160.pdf
-$ENDCMP
-#
-$CMP CP2102N-A01-GQFN24
-D USB to UART master bridge, QFN-24
-K USB UART bridge
-F https://www.silabs.com/documents/public/data-sheets/cp2102n-datasheet.pdf
-$ENDCMP
-#
-$CMP ESDU5V0H4
-D Uni-direction ESD Protection Array
-K ESD clamp
-F https://datasheet.lcsc.com/szlcsc/1810241514_Changjiang-Electronics-Tech-CJ-ESDU5V0H4_C84837.pdf
-$ENDCMP
-#
 $CMP TUSB2046
 D 4-Port Hub for the Universal Serial Bus
 K USB Hub Port
