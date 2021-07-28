@@ -1,4 +1,4 @@
-19263577948762720
+19265208143179852
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -83222,6 +83222,13 @@ test point THT pad
 0
 1
 1
+footprints
+TRRS-PJ-320A
+
+
+0
+4
+4
 footprints
 USB_C_Receptacle_HRO_TYPE-C-31-M-12
 USB Type-C receptacle for USB 2.0 and PD, http://www.krhro.com/uploads/soft/180320/1-1P320120243.pdf
