@@ -1,4 +1,4 @@
-19265234846741177
+19266871646066883
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -83201,6 +83201,13 @@ QR-code
 0
 0
 0
+footprints
+SolderJumper-BCu-Bridged
+SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, bridged with 1 copper strip
+solder jumper open
+0
+2
+2
 footprints
 SolderJumper2-BCu
 SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, open
