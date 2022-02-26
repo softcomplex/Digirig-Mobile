@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "footprints")(type "KiCad")(uri "C:/Users/denis/Dropbox/Projects/digirig.net/electric/footprints.pretty")(options "")(descr ""))
+)
