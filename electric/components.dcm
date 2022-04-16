@@ -1,8 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP TUSB2046
-D 4-Port Hub for the Universal Serial Bus
-K USB Hub Port
-$ENDCMP
-#
-#End Doc Library

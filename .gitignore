@@ -1,6 +1,7 @@
-electric/datasheets/*
-electric/gerbers/*
+**/datasheets/*
+**/gerbers/*
 local/*
+**/*-backups
 *.old
 *.bak
 *-bak

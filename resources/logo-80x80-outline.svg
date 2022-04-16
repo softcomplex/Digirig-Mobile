@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   shape-rendering="crispEdges"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 80 80"
+   height="80"
+   width="80"
+   sodipodi:docname="logo-80x80-outline.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="3440"
+     inkscape:window-height="1361"
+     id="namedview1473"
+     showgrid="false"
+     inkscape:zoom="9.1875"
+     inkscape:cx="20.353741"
+     inkscape:cy="51.809393"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8"
+     inkscape:document-rotation="0" />
+  <style
+     id="style836">
+.off {
+    fill: #A0A0A0;
+    stroke: #404040;
+}
+
+.on {
+    fill: #ff0000;
+    stroke: #a00000;
+}
+</style>
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <circle
+     cy="40"
+     cx="40"
+     id="cir"
+     style="opacity:1;fill:#999999;"
+     r="40" />
+  <g
+     style="display:inline"
+     id="layer1">
+    <path
+       style="display:inline;stroke-width:0.8"
+       id="sg"
+       d="m 16,14.4 h 12.8 l 3.2,3.2 -3.2,3.2 H 16 l -3.2,-3.2 z" />
+    <use
+       class="off"
+       id="1a"
+       xlink:href="#sg" />
+    <use
+       class="on"
+       transform="rotate(90,22.4,28.8)"
+       id="1b"
+       xlink:href="#sg" />
+    <use
+       class="on"
+       transform="rotate(90,11.2,40)"
+       id="1c"
+       xlink:href="#sg" />
+    <use
+       class="on"
+       transform="translate(0,44.8)"
+       id="1d"
+       xlink:href="#sg" />
+    <use
+       class="on"
+       transform="rotate(90,0,28.8)"
+       id="1e"
+       xlink:href="#sg" />
+    <use
+       class="off"
+       transform="rotate(90,11.2,17.6)"
+       id="1f"
+       xlink:href="#sg" />
+    <use
+       class="on"
+       transform="translate(0,22.4)"
+       id="1g"
+       xlink:href="#sg" />
+    <use
+       class="off"
+       transform="translate(35.2)"
+       id="2a"
+       xlink:href="#sg" />
+    <use
+       class="off"
+       transform="rotate(90,40,46.4)"
+       id="2b"
+       xlink:href="#sg" />
+    <use
+       class="off"
+       transform="rotate(90,28.8,57.6)"
+       id="2c"
+       xlink:href="#sg" />
+    <use
+       class="off"
+       transform="translate(35.2,44.8)"
+       id="2d"
+       xlink:href="#sg" />
+    <use
+       class="on"
+       transform="rotate(90,17.6,46.4)"
+       id="2e"
+       xlink:href="#sg" />
+    <use
+       class="off"
+       transform="rotate(90,28.8,35.2)"
+       id="2f"
+       xlink:href="#sg" />
+    <use
+       class="on"
+       transform="translate(35.2,22.4)"
+       id="2g"
+       xlink:href="#sg" />
+  </g>
+</svg>

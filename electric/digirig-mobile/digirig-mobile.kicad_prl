@@ -1,10 +1,10 @@
 {
   "board": {
-    "active_layer": 31,
+    "active_layer": 36,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_nets": [],
-    "high_contrast_mode": 1,
+    "high_contrast_mode": 0,
     "net_color_mode": 1,
     "opacity": {
       "pads": 0.6000000238418579,
@@ -44,6 +44,7 @@
       15,
       16,
       17,
+      18,
       19,
       20,
       21,
