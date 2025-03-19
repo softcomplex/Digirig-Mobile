@@ -42,9 +42,9 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.81050121"
      inkscape:cx="287.2002"
-     inkscape:cy="349.34666"
+     inkscape:cy="214.48021"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="svg8"
      showgrid="true"
      inkscape:window-width="3440"
      inkscape:window-height="1361"
@@ -76,19 +76,32 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
+  <rect
+     style="display:inline;opacity:1;fill:#ffffff;stroke:none;stroke-width:0.755906;stroke-linecap:round;stroke-linejoin:round"
+     id="rect853"
+     width="1550"
+     height="700"
+     x="-131.40753"
+     y="-100.87243"
+     inkscape:export-xdpi="600"
+     inkscape:export-ydpi="600" />
   <g
-     id="g953">
+     id="g953"
+     inkscape:export-xdpi="600"
+     inkscape:export-ydpi="600">
     <circle
        style="display:inline;fill:none;fill-opacity:1;stroke:#808080;stroke-width:20;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
        id="cir"
        cx="250"
        cy="250"
        inkscape:label="circle"
-       r="270" />
+       r="270"
+       inkscape:export-xdpi="600.01862"
+       inkscape:export-ydpi="600.01862" />
     <use
        x="0"
        y="0"
@@ -99,7 +112,9 @@
        transform="translate(220,140)"
        inkscape:label="2g"
        class="on"
-       style="display:inline;fill:#ff0000" />
+       style="display:inline;fill:#ff0000"
+       inkscape:export-xdpi="600.01862"
+       inkscape:export-ydpi="600.01862" />
     <use
        x="0"
        y="0"
@@ -110,7 +125,9 @@
        transform="rotate(90,180,220)"
        inkscape:label="2f"
        class="off"
-       style="display:inline;fill:#808080" />
+       style="display:inline;fill:#808080"
+       inkscape:export-xdpi="600.01862"
+       inkscape:export-ydpi="600.01862" />
     <use
        x="0"
        y="0"
@@ -121,7 +138,9 @@
        transform="rotate(90,110,290)"
        inkscape:label="2e"
        class="on"
-       style="display:inline;fill:#ff0000" />
+       style="display:inline;fill:#ff0000"
+       inkscape:export-xdpi="600.01862"
+       inkscape:export-ydpi="600.01862" />
     <use
        x="0"
        y="0"
@@ -132,7 +151,9 @@
        transform="translate(220,279.99999)"
        inkscape:label="2d"
        class="off"
-       style="display:inline;fill:#808080" />
+       style="display:inline;fill:#808080"
+       inkscape:export-xdpi="600.01862"
+       inkscape:export-ydpi="600.01862" />
     <use
        x="0"
        y="0"
@@ -143,7 +164,9 @@
        transform="rotate(90,180,359.99999)"
        inkscape:label="2c"
        class="off"
-       style="display:inline;fill:#808080" />
+       style="display:inline;fill:#808080"
+       inkscape:export-xdpi="600.01862"
+       inkscape:export-ydpi="600.01862" />
     <use
        x="0"
        y="0"
@@ -154,7 +177,9 @@
        transform="rotate(90,250,289.99999)"
        inkscape:label="2b"
        class="off"
-       style="display:inline;fill:#808080" />
+       style="display:inline;fill:#808080"
+       inkscape:export-xdpi="600.01862"
+       inkscape:export-ydpi="600.01862" />
     <use
        x="0"
        y="0"
@@ -165,7 +190,9 @@
        transform="translate(220)"
        inkscape:label="2a"
        class="off"
-       style="display:inline;fill:#808080" />
+       style="display:inline;fill:#808080"
+       inkscape:export-xdpi="600.01862"
+       inkscape:export-ydpi="600.01862" />
     <use
        x="0"
        y="0"
@@ -176,7 +203,9 @@
        inkscape:label="1g"
        class="on"
        style="display:inline;fill:#ff0000"
-       transform="translate(0,140)" />
+       transform="translate(0,140)"
+       inkscape:export-xdpi="600.01862"
+       inkscape:export-ydpi="600.01862" />
     <use
        x="0"
        y="0"
@@ -187,7 +216,9 @@
        transform="rotate(90,70,110)"
        inkscape:label="1f"
        class="off"
-       style="display:inline;fill:#808080" />
+       style="display:inline;fill:#808080"
+       inkscape:export-xdpi="600.01862"
+       inkscape:export-ydpi="600.01862" />
     <use
        x="0"
        y="0"
@@ -198,7 +229,9 @@
        transform="rotate(90,1.7999999e-6,180)"
        inkscape:label="1e"
        class="on"
-       style="display:inline;fill:#ff0000" />
+       style="display:inline;fill:#ff0000"
+       inkscape:export-xdpi="600.01862"
+       inkscape:export-ydpi="600.01862" />
     <use
        x="0"
        y="0"
@@ -209,7 +242,9 @@
        inkscape:label="1d"
        class="on"
        style="display:inline;fill:#ff0000"
-       transform="translate(0,279.99999)" />
+       transform="translate(0,279.99999)"
+       inkscape:export-xdpi="600.01862"
+       inkscape:export-ydpi="600.01862" />
     <use
        x="0"
        y="0"
@@ -220,7 +255,9 @@
        transform="rotate(90,70.000002,250)"
        inkscape:label="1c"
        class="on"
-       style="display:inline;fill:#ff0000" />
+       style="display:inline;fill:#ff0000"
+       inkscape:export-xdpi="600.01862"
+       inkscape:export-ydpi="600.01862" />
     <use
        x="0"
        y="0"
@@ -231,14 +268,18 @@
        transform="rotate(90,140,180)"
        inkscape:label="1b"
        class="on"
-       style="display:inline;fill:#ff0000" />
+       style="display:inline;fill:#ff0000"
+       inkscape:export-xdpi="600.01862"
+       inkscape:export-ydpi="600.01862" />
     <path
        d="m 100,90 h 80 l 20,20 -20,20 H 100 L 80,110 Z"
        id="sg"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccc"
        inkscape:label="segment"
-       style="display:inline" />
+       style="display:inline"
+       inkscape:export-xdpi="600.01862"
+       inkscape:export-ydpi="600.01862" />
     <use
        x="0"
        y="0"
@@ -248,7 +289,9 @@
        height="100%"
        inkscape:label="1a"
        class="off"
-       style="display:inline;fill:#808080" />
+       style="display:inline;fill:#808080"
+       inkscape:export-xdpi="600.01862"
+       inkscape:export-ydpi="600.01862" />
     <g
        id="layer3"
        inkscape:label="text"
@@ -259,7 +302,9 @@
          x="540.77246"
          y="451.75006"
          id="text854"
-         inkscape:label="slogan"><tspan
+         inkscape:label="slogan"
+         inkscape:export-xdpi="600.01862"
+         inkscape:export-ydpi="600.01862"><tspan
            sodipodi:role="line"
            x="540.77246"
            y="451.75006"
@@ -271,7 +316,9 @@
          x="530.75256"
          y="317.51309"
          id="text850"
-         inkscape:label="headline"><tspan
+         inkscape:label="headline"
+         inkscape:export-xdpi="600.01862"
+         inkscape:export-ydpi="600.01862"><tspan
            sodipodi:role="line"
            id="tspan848"
            x="530.75256"
